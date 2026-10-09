@@ -2,9 +2,9 @@
 
 # SF Quick Access: Privacy Policy
 
-**Effective date:** [EFFECTIVE DATE]
-**Publisher:** [YOUR NAME OR COMPANY]
-**Contact:** [YOUR EMAIL]
+**Effective date:** 9th Oct, 2026   
+**Publisher:** Kiran Patel
+**Contact:** patelkiran3090@gmail.com
 
 ## In short
 
@@ -100,4 +100,4 @@ If the extension changes what data it handles, this policy and its effective dat
 
 ## Contact
 
-Questions about this policy: [YOUR EMAIL]
+Questions about this policy: patelkiran3090@gmail.com
