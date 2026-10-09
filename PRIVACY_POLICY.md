@@ -4,7 +4,6 @@
 
 **Effective date:** 9th Oct, 2026   
 **Publisher:** Kiran Patel
-
 **Contact:** patelkiran3090@gmail.com
 
 ## In short
